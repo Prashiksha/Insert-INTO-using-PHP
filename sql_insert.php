@@ -1,7 +1,9 @@
 <?php 
 //Insert data into table using php
+//this code runs only once.
+//Once the record is inserted, again running the code will generate error
 $username="prashiksha";
-$password="jainjain";
+$password="........";
 $hostname="localhost";
 $database="dbname";
 
